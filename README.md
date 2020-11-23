@@ -1,2 +1,3 @@
 # hello-world
-Repositorio de prueba
+Buenas tardes. 
+Vengo a probar y aprender de GitHub.
